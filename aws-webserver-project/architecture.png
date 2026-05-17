@@ -1,0 +1,5 @@
+Internet
+   ↓
+Security Group
+   ↓
+EC2 (nginx)
