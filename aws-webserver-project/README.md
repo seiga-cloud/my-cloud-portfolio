@@ -26,6 +26,10 @@
 6. Gitによるソース管理
 7. GitHubへのリポジトリ公開
 
+## スクリーンショット
+<img width="1272" height="662" alt="スクリーンショット 2026-05-13 153500" src="https://github.com/user-attachments/assets/4ec9407f-3c8d-4ebc-8f82-45560b7b9681" />
+
+
 ---
 
 ## 🌐 動作確認URL
